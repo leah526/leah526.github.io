@@ -11,3 +11,7 @@ This site brings together my work with Python, data analysis, and interactive vi
 ## About this site
 
 Built with Jupyter Book using Jupyter notebooks and Markdown. More projects will be added as the course progresses.
+
+## Learning in progress
+
+My current focus is reading data with Pandas and communicating relationships through interactive charts.
