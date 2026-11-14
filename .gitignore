@@ -5,3 +5,6 @@ __pycache__/
 _build/
 Lab*.ipynb
 lab*.ipynb
+
+# Download the source data from Kaggle to run Project 1 locally.
+flights_sample.csv
